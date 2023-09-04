@@ -1,0 +1,21 @@
+{
+  "name": "js-exam",
+  "version": "1.0.0",
+  "description": "js exam",
+  "main": "index.js",
+  "scripts": {
+    "log": "git log",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EXAM"
+  ],
+  "author": "\"Fateme Ahmadi\"",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "flowbite": "^1.8.1"
+  }
+}
